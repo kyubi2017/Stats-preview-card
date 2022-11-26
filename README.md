@@ -12,4 +12,4 @@
 - Flexbox
 - vite 
 
--live demo [click here]() 
+-live demo [click here](https://stats-preview-card-vert-eight.vercel.app/) 
